@@ -1,4 +1,5 @@
 ## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=dark&font=Source%20Code%20Pro)
 
 <!--
 **BertozziPietro/BertozziPietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
