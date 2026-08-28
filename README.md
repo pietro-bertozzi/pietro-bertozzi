@@ -1,5 +1,5 @@
-## Hi there 👋
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=dark&font=Source%20Code%20Pro)
+<!--## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=dark&font=Source%20Code%20Pro)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=unicorn&font=Source%20Code%20Pro&ext=activity) -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=catppuccinMocha&font=Raleway&ext=heatmap)
