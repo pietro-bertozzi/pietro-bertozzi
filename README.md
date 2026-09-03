@@ -2,7 +2,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=dark&font=Source%20Code%20Pro)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=unicorn&font=Source%20Code%20Pro&ext=activity) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TUO_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pietro-bertozzi)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pietrobertozzi?theme=catppuccinMocha&font=Raleway&ext=heatmap)
 
 <!--
